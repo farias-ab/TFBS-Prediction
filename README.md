@@ -2,7 +2,10 @@
 
 André Borges Farias (1,2), Gustavo Sganzerla Martinez (3), Edgardo Galán-Vásquez (4), Marisa Fabiana Nicolás (1) and Ernesto Pérez-Rueda (2)
 
-1. Laboratório Nacional de Computação Cientı́fica - LNCC, Avenida Getúlio Vargas, 25651075, Rio de Janeiro, Brazil, 2. Instituto de Investigaciones en Matemáticas Aplicadas y en Sistemas, Universidad Nacional Autónoma de México, Unidad Académica del Estado de Yucatán, Carretera Sierra Papacal, 97302, Yucatán, México, 3. Microbiology and Immunology, Dalhousie University, 5850 College Street, B3H 4H7, Nova Scotia, Canada and 4. Departamento de Ingenierı́a de Sistemas Computacionales y Automatización, Instituto de Investigaciones en Matemáticas Aplicadas y en Sistemas, Universidad Nacional Autónoma de México, Ciudad Universitaria, Circuito Escolar S/N, 01000, Mexico City, México
+1. Laboratório Nacional de Computação Cientı́fica - LNCC, Avenida Getúlio Vargas, 25651075, Rio de Janeiro, Brazil,
+2. Instituto de Investigaciones en Matemáticas Aplicadas y en Sistemas, Universidad Nacional Autónoma de México, Unidad Académica del Estado de Yucatán, Carretera Sierra Papacal, 97302, Yucatán, México,
+3. Microbiology and Immunology, Dalhousie University, 5850 College Street, B3H 4H7, Nova Scotia, Canada and
+4. Departamento de Ingenierı́a de Sistemas Computacionales y Automatización, Instituto de Investigaciones en Matemáticas Aplicadas y en Sistemas, Universidad Nacional Autónoma de México, Ciudad Universitaria, Circuito Escolar S/N, 01000, Mexico City, México
 ∗ Corresponding author. ernesto.perez@iimas.unam.mx, bfarias.andre@gmail.com
 
 ---
@@ -13,11 +16,9 @@ André Borges Farias (1,2), Gustavo Sganzerla Martinez (3), Edgardo Galán-Vásq
 2. [Requirements](#requirements)
 3. [Installation](#installation)
 4. [Usage](#usage)
-5. [File Structure](#file-structure)
-6. [Model Information](#model-information)
-7. [Results](#results)
-8. [Contributors](#contributors)
-9. [License](#license)
+5. [Contributors](#contributors)
+6. [License](#license)
+7. [How to cite](#cite)
 
 ---
 
@@ -27,11 +28,14 @@ Transcriptional factors (TFs) in bacteria play a crucial role in gene regulation
 
 ### Requirements
 
-- Python 3.x
+- Python 3.8.8
 - Pandas
 - Scikit-learn
 - Pickle
 - Jupyter Notebook
+- Matplotlib
+- Shap
+- Numpy
 
 ### Installation
 
@@ -39,4 +43,16 @@ To install and set up the project on your local machine:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repository.git
+   git clone https://github.com/farias-ab/TFBS-Prediction.git
+
+### Usage
+
+Please, see the folder `Tutorial` to more information
+
+### Contributors
+
+See the list of [Contributors](CONTRIBUTORS.md) who participated in this project.
+
+### License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
