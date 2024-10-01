@@ -28,14 +28,16 @@ Transcriptional factors (TFs) in bacteria play a crucial role in gene regulation
 
 ### Requirements
 
-- Python 3.8.8
-- Pandas
-- Scikit-learn
-- Pickle
-- Jupyter Notebook
-- Matplotlib
-- Shap
-- Numpy
+- Python 3.8.8 (preferably running through a notebook software). 
+
+Please install through pip:
+	- Pandas (version 1.2.4)
+	- Scikit-learn (version 0.24.1)
+	- Pickle (version 4.0)
+	- Matplotlib (version 3.3.4)
+	- Shap (version 0.44.1)
+	- Numpy (version 1.20.1)
+
 
 ### Installation
 
