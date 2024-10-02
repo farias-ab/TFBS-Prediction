@@ -58,4 +58,7 @@ See the list of [Contributors](CONTRIBUTORS.md) who participated in this project
 
 ### License
 
-This project is licensed under the Creative Commons License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the Creative Commons License - see the [LICENSE](LICENSE) file for details. ![CC BY-NC-ND 4.0](https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png)
+
+
+### How to cite
